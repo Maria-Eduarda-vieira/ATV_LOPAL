@@ -1,6 +1,6 @@
 ATividade LOPAL 02 📝
 -------------------------------------------------------------------------------------------------
-Essa foi a segunda atividade que realizei sobre a aula introdutória de lógica de programação, em que foi solicitado o desenvolvimento de algoritmos em casos de cálculos matemáticos de diferentes tipos.
+Essa foi a segunda atividade que realizei sobre a aula introdutória de lógica de programação, em que foi solicitado o desenvolvimento de algoritmos em casos de cálculos matemáticos de diferentes tipos, como área, perímetro, média etc
 
 Ferramentas🛠️: Draw.io e Visualg
 
