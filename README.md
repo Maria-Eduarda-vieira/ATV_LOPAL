@@ -8,7 +8,7 @@ Objetivo🎯: Aprofundar os significados das figuras de fluxograma e iniciar a c
 
 Autor: Maria Eduarda Vieira
 
-Data:´Início: 07/04/2026. Término: 13/04/2026
+Data:Início: 07/04/2026. Término: 13/04/2026
 
 Como me ajudou: Consegui ter uma visão mais prática do conteúdo.
 
